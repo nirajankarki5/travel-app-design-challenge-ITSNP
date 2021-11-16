@@ -58,9 +58,9 @@ class PopularCard extends StatelessWidget {
               Text(
                 "${popular.rating}",
                 style: const TextStyle(
-                  color: Colors.black,
-                  fontWeight: FontWeight.w600,
-                ),
+                    color: Colors.black,
+                    fontWeight: FontWeight.w600,
+                    fontSize: 12),
               ),
               const Icon(
                 Icons.star,

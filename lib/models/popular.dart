@@ -14,21 +14,21 @@ class Popular {
 List<Popular> popularList = [
   Popular(
     description:
-        "Pokhara is a metropolitan city in the Western region of Nepal. It is a valley cradled amongst mountains and hills.",
-    image: "assets/images/mountain.webp.",
+        "Pokhara is a metropolitan city in the Western region of Nepal.",
+    image: "assets/images/pokhara.png",
     placeName: "Pokhara",
     rating: 4.8,
   ),
   Popular(
     description:
-        "Dharan is a famous tourist and pilgrimage center in Nepal's eastern region and is a gateway to several attractions.",
+        "Dharan is a famous tourist and pilgrimage center in Nepal's eastern region.",
     image: "assets/images/vedetar.jpg",
     placeName: "Dharan",
     rating: 4.6,
   ),
   Popular(
     description:
-        "The meaning of Chitwan is Heart of the Jungle. Chitwan was a dense forest ruled by the Tharu God-King Chitrasen Baba, an incarnation of Vishnu.",
+        "The meaning of Chitwan is Heart of the Jungle. Chitwan was a dense forest.",
     image: "assets/images/elephant.jpg",
     placeName: "Chitwan",
     rating: 4.9,
