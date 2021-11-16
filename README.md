@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![](screenshot/screenshot.png)
+<img src="screenshot/screenshot.png" width="300">
 
 ## Getting Started
 
