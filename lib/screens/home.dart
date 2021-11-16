@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_travel_itsnp/widgets/category_tab.dart';
 import 'package:flutter_travel_itsnp/widgets/my_appbar.dart';
 import 'package:flutter_travel_itsnp/widgets/search_bar.dart';
 
@@ -25,9 +26,10 @@ class HomeScreen extends StatelessWidget {
               "Where do \nyou want to go?",
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
             ),
-            SizedBox(height: 20),
+            SizedBox(height: 25),
             SearchBar(),
-            SizedBox(height: 20),
+            SizedBox(height: 30),
+            CategoryTab(),
           ],
         ),
       ),
