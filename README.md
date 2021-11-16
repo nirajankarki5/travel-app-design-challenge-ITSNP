@@ -1,6 +1,8 @@
-# flutter_travel_itsnp
+# Flutter Travel App Design
 
-A new Flutter project.
+## Screenshot
+
+![](screenshot/screenshot.png)
 
 ## Getting Started
 
